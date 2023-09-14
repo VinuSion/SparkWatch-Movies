@@ -1,3 +1,3 @@
-# First React Project
+# SparkWatch
 
-first project init :V
+Just a very simple IMdb replica

@@ -28,7 +28,7 @@ function App() {
 
     return (
         <div className="app">
-            <h1>SparkWatch</h1>
+            <h1>🍿SparkWatch</h1>
             <div className="search">
                 <input
                     placeholder="Search for Movies"

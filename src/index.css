@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+
+:root {
+  line-height: 1.5;
+  font-weight: 400;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-decoration: none;
+}
+
+::-webkit-scrollbar {
+  width: 0.45rem;
+}
+
+::-webkit-scrollbar-track {
+  background: #e2e2e2;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #a5a5a5;
+}

@@ -5,7 +5,7 @@
 
 ![sparkwatch](/public/sparkwatch_cover_img.png)
 
-Sparkwatch Movies brings together a love for unlocking creative potential with top-notch JavaScript tools like React, Redux, Material UI, and more, making it a hub for industry-leading innovation.
+Sparkwatch Movies brings together a love for unlocking creative potential with top-notch JavaScript tools like React, Redux, Material UI, and more, making it a hub for industry-leading innovation. Using the free and open-source api from https://www.themoviedb.org/
 
 Features include:
 * user authentication,
